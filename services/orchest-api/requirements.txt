@@ -71,7 +71,7 @@ flask==1.1.1
     #   flask-script
     #   flask-sqlalchemy
     #   orchest-internals
-flask-cors==3.0.9
+flask-cors==4.0.1
     # via -r requirements.in
 flask-migrate==2.6.0
     # via -r requirements.in
@@ -176,7 +176,6 @@ six==1.16.0
     #   -r requirements.in
     #   apscheduler
     #   click-repl
-    #   flask-cors
     #   flask-restx
     #   google-auth
     #   kubernetes
